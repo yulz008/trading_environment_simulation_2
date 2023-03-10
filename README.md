@@ -13,7 +13,7 @@
 
 Instruction:
 
-git clone https://github.com/yulz008/trading_environment_simulation.git
+git clone https://github.com/yulz008/trading_environment_simulation_2.git
 
 cd your-repository
 
